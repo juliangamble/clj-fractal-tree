@@ -3,6 +3,9 @@ Clojure-Fractal-Tree
 This was originally Developed by Stuart Halloway - author of Programming Clojure
 http://www.amazon.com/Programming-Clojure-Pragmatic-Programmers-Halloway/dp/1934356336
 
+You can read a blog post about it here:
+http://juliangamble.com/blog/2012/01/20/clojure-gui-demo-of-a-fractal-tree/
+
 This site packages it up for Web Start. 
 
 The point here is to add Java Web start to enable it to be demoed to a wider audience
