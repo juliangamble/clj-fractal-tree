@@ -1,0 +1,14 @@
+Clojure-Fractal-Tree
+
+This was originally Developed by Stuart Halloway - author of Programming Clojure
+http://www.amazon.com/Programming-Clojure-Pragmatic-Programmers-Halloway/dp/1934356336
+
+This site packages it up for Web Start. 
+
+The point here is to add Java Web start to enable it to be demoed to a wider audience
+and promote the clojure community.
+
+-----------------------------------------
+This is based on:
+
+https://github.com/johnlawrenceaspden/hobby-code/blob/master/fractaltree-stuart-halloway.clj
