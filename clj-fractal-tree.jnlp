@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp codebase="https://github.com/juliangamble/clj-fractal-tree" 
+      <!-- href="https://sites.google.com/site/juliangamble/Home/clj-fractal-tree.jnlp"> -->
+      href="file:///C:/Users/julian/Documents/Projects/clj-fractal-tree/clj-fractal-tree.jnlp"> 
+  <information>
+    <title>Clojure Fractal Tree</title>
+    <vendor>Machiavellian</vendor>
+  </information>
+  <resources>
+    <j2se version="1.4+" />
+    <!-- <jar href="https://sites.google.com/site/juliangamble/Home/clj-fractal-tree.jar"/> -->
+    <jar href="file:///C:/Users/julian/Documents/Projects/clj-fractal-tree/clj-fractal-tree.jar"/>
+  </resources>
+  <application-desc main-class="fractaltree.fractaltree"/>
+  <offline-allowed/>
+  <security>
+    <all-permissions/>
+  </security>
+</jnlp>
